@@ -4,8 +4,6 @@
 
 <h3 align="center">Full Stack Developer | Building Scalable Web & AR Solutions | India</h3>
 
-
-
 <p align="center">
   <a href="https://krishbharadwaj.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2300bfff?style=for-the-badge&logo=firefox&logoColor=white" />
@@ -85,4 +83,3 @@
 </p>
 
 ---
-
