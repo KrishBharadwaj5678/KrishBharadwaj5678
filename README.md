@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Krish Bharadwaj</h1>
-<h3 align="center">Full Stack Developer | Tech Enthusiast | India 🇮🇳</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Krish+Bharadwaj" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Full Stack Developer | Building Scalable Web & AR Solutions | India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishbharadwaj5678&label=Profile%20Views&color=0e75b6&style=flat" alt="krishbharadwaj5678" />
