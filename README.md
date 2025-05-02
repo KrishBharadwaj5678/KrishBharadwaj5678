@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Krish+Bharadwaj" alt="Typing SVG" />
 </h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishBharadwaj5678/KrishBharadwaj5678/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishBharadwaj5678/KrishBharadwaj5678/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KrishBharadwaj5678/KrishBharadwaj5678/output/github-snake.svg" />
-</picture>
-
 <h3 align="center">Full Stack Developer | Building Scalable Web & AR Solutions | India</h3>
 
 <p align="center">
@@ -31,6 +25,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishbharadwaj5678&label=Profile%20Views&color=0e75b6&style=flat" alt="krishbharadwaj5678" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishBharadwaj5678/KrishBharadwaj5678/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishBharadwaj5678/KrishBharadwaj5678/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KrishBharadwaj5678/KrishBharadwaj5678/output/github-snake.svg" />
+</picture>
 
 ---
 
