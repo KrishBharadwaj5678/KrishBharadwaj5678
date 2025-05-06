@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
 </p>
 
 ---
