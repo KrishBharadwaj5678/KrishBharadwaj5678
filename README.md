@@ -14,6 +14,9 @@
   <a href="https://linkedin.com/in/krishbharadwaj23" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@ByteAura" target="_blank">
+   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   <a href="https://dev.to/krishbharadwaj5678" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-%23000000?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
