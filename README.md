@@ -42,12 +42,15 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Building Full Stack apps, AR/VR, and AI-based solutions  
-- 🧠 Strong interest in **solving real-world problems**
-- 💡 Passionate about tech-driven creativity  
-- 📈 Exploring emerging tools and frameworks  
-- 🤝 Open to collaborations and freelance work  
-- 📫 Reach me at: **krishbharadwaj50@gmail.com**
+
+| 💼 Area |  Details 🚀 |
+|------|-----------|
+| 🔭 What I Do | Build **Full-Stack apps**, **AR/VR experiences** |
+| 🧠 Interests | Solving **real-world problems** using technology |
+| 💡 Passion | Tech-driven **creativity & innovation** |
+| 📈 Learning | Exploring **emerging tools & frameworks** |
+| 🤝 Open To | **Collaborations**, **freelance work**, and exciting opportunities |
+| 📫 Contact | **krishbharadwaj50@gmail.com** |
 
 ---
 
@@ -71,27 +74,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" alt="Canva"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" alt="Blender"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishbharadwaj5678&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishbharadwaj5678&layout=compact&theme=radical" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishbharadwaj5678&theme=radical" width="60%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishbharadwaj5678&theme=radical&no-bg=true&no-frame=true" />
-</p>
-
----
