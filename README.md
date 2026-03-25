@@ -40,9 +40,7 @@
 
 ## About
 
-<p>
 I’m a Full Stack Developer with 3+ years of experience designing and building scalable full stack web applications, Flutter apps, and AR-based web and mobile applications. I specialize in creating high-performance, user-friendly solutions with a strong focus on modern development practices, performance optimization, and clean architecture. I’m passionate about delivering efficient, user-centric digital experiences across platforms.
-</p>
 
 ## Skills
 
