@@ -42,33 +42,36 @@
 
 I’m a Full Stack Developer with 3+ years of experience designing and building scalable full stack web applications, Flutter apps, and AR-based web and mobile applications. I specialize in creating high-performance, user-friendly solutions with a strong focus on modern development practices, performance optimization, and clean architecture. I’m passionate about delivering efficient, user-centric digital experiences across platforms.
 
+## Skills
 
----
+<div align="center">
+  <p><strong>Full Stack · Mobile · Augmented Reality</strong></p>
+</div>
 
-### ⚙️ Tech Stack & Tools
+### Full-stack
+<div align="center">
+  <img alt="Full-stack" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,mongodb,tailwind&perline=8" />
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" alt="Canva"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" alt="Blender"/>
-</p>
+### Mobile
+<div align="center">
+  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=8" />
+</div>
+
+### Augmented Reality
+<div align="center">
+  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=unity,cs,blender,threejs&perline=8" />
+</div>
+
+### Data
+<div align="center">
+  <img alt="Trading and data" src="https://skillicons.dev/icons?i=python,opencv,flask,mongodb,mysql&perline=8" />
+</div>
+
+### Dev Tools
+<div align="center">
+  <img alt="Trading and data" src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,npm&perline=8" />
+</div>
 
 ---
 
