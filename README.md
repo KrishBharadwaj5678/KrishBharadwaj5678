@@ -73,8 +73,15 @@ I’m a Full Stack Developer with 3+ years of experience designing and building 
   <img alt="Trading and data" src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,npm,stackoverflow&perline=8" />
 </div>
 
----
+## Stats & visuals
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green.svg" />
+  </picture>
+</div>
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishBharadwaj5678&theme=tokyonight)
