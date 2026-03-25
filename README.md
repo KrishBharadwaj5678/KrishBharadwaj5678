@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Krish+Bharadwaj" alt="Typing SVG" />
-</h1>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header" />
 
-<h3 align="center">Full Stack Developer | Building Scalable Web & AR Solutions | India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+App+Developer;AR+Developer;&font=Pacifico&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45" />
+</h1>
 
 <p align="center">
   <a href="https://krishbharadwaj.vercel.app/" target="_blank">
@@ -23,8 +23,6 @@
   <a href="https://instagram.com/__krishh__23" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://sketchfab.com/ItsKrish7" target="_blank">
-  <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=Sketchfab&logoColor=white" />
 </a>
 </p>
 
@@ -40,17 +38,10 @@
 
 ---
 
-### 🧑‍💻 About Me
+## About
 
+I’m a Full Stack Developer with 3+ years of experience designing and building scalable full stack web applications, Flutter apps, and AR-based web and mobile applications. I specialize in creating high-performance, user-friendly solutions with a strong focus on modern development practices, performance optimization, and clean architecture. I’m passionate about delivering efficient, user-centric digital experiences across platforms.
 
-| 💼 Area |  Details 🚀 |
-|------|-----------|
-| 🔭 What I Do | Build **Full-Stack apps**, **AR/VR experiences** |
-| 🧠 Interests | Solving **real-world problems** using technology |
-| 💡 Passion | Tech-driven **creativity & innovation** |
-| 📈 Learning | Exploring **emerging tools & frameworks** |
-| 🤝 Open To | **Collaborations**, **freelance work**, and exciting opportunities |
-| 📫 Contact | **krishbharadwaj50@gmail.com** |
 
 ---
 
