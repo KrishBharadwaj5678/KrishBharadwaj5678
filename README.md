@@ -82,6 +82,8 @@ I’m a Full Stack Developer with 3+ years of experience designing and building 
   </picture>
 </div>
 
-## 🔥 Streak Stats
-
+<div align="center">
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishBharadwaj5678&theme=tokyonight)
+
+</div>
