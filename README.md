@@ -48,14 +48,14 @@ I’m a Full Stack Developer with 3+ years of experience designing and building 
   <p><strong>Full Stack · Mobile · Augmented Reality</strong></p>
 </div>
 
-### Full-stack
+### Full Stack
 <div align="center">
-  <img alt="Full-stack" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,mongodb,tailwind&perline=8" />
+  <img alt="Full-stack" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,mongodb,tailwind,bootstrap,vite,vercel&perline=8" />
 </div>
 
 ### Mobile
 <div align="center">
-  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=8" />
+  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase&perline=8" />
 </div>
 
 ### Augmented Reality
@@ -70,7 +70,7 @@ I’m a Full Stack Developer with 3+ years of experience designing and building 
 
 ### Dev Tools
 <div align="center">
-  <img alt="Trading and data" src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,npm&perline=8" />
+  <img alt="Trading and data" src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,npm,stackoverflow&perline=8" />
 </div>
 
 ---
