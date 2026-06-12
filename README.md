@@ -57,38 +57,25 @@
   </samp>
 </p>
 
-## Skills
+<br>
 
-<div align="center">
-  <p><strong>Full Stack · Mobile · Augmented Reality</strong></p>
-</div>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-### Full Stack
-<div align="center">
-  <img alt="Full-stack" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,mongodb,tailwind,bootstrap,vite,vercel&perline=8" />
-</div>
+<h2 align="center">Tech Stack</h2>
 
-### Mobile
-<div align="center">
-  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase&perline=8" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,threejs,nodejs,express,python,opencv,mysql,mongodb,vercel,netlify,androidstudio,flutter,dart,unity,cs,git,github,vscode,pycharm,postman,blender,discord,npm,vite&theme=dark&perline=12" />
+</p>
 
-### Augmented Reality
-<div align="center">
-  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=unity,cs,blender,threejs&perline=8" />
-</div>
+<br>
 
-### Data
-<div align="center">
-  <img alt="Trading and data" src="https://skillicons.dev/icons?i=python,opencv,flask,mongodb,mysql&perline=8" />
-</div>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-### Dev Tools
-<div align="center">
-  <img alt="Trading and data" src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,npm,stackoverflow&perline=8" />
-</div>
-
-## Stats & visuals
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <picture>
@@ -97,8 +84,7 @@
   </picture>
 </div>
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishBharadwaj5678&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-two-pearl-68.vercel.app/api?username=KrishBharadwaj5678&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=KrishBharadwaj5678&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=2DD4BF&dates=555555" />
+</p>
