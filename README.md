@@ -31,12 +31,12 @@
 
 <p align="center">
   <a href="https://github.com/KrishBharadwaj5678?tab=followers">
-    <img src="https://img.shields.io/github/followers/KrishBharadwaj5678?style=flat-square&color=2DD4BF&labelColor=1a1b27&logo=github" />
+    <img src="https://img.shields.io/github/followers/KrishBharadwaj5678?style=flat-square&color=2DD4BF&labelColor=1a1b27&logo=github&label=Followers" />
   </a>
   <a href="https://github.com/KrishBharadwaj5678?tab=repositories">
-    <img src="https://img.shields.io/github/stars/KrishBharadwaj5678?style=flat-square&color=2DD4BF&labelColor=1a1b27&logo=github&label=total%20stars" />
+    <img src="https://img.shields.io/github/stars/KrishBharadwaj5678?style=flat-square&color=2DD4BF&labelColor=1a1b27&logo=github&label=Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&style=flat-square&color=2DD4BF&label=visitors" />
+ <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&style=flat-square&color=2DD4BF&label=Visitors" />
 </p>
 
 <picture>
