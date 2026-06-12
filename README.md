@@ -88,3 +88,10 @@
   <img width="48%" src="https://github-readme-stats-two-pearl-68.vercel.app/api?username=KrishBharadwaj5678&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&rank_icon=github" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=KrishBharadwaj5678&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=2DD4BF&dates=555555" />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=120&section=footer" />
+</p>
+
